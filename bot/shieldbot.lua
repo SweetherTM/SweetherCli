@@ -269,25 +269,13 @@ function create_config( )
     "weather",
     "id"
     },
-    sudo_users = {237948368},--Sudo users
+    sudo_users = {239607076},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[MeGa shield v2.9
-An advanced administration bot based on TG-CLI written in Lua
-
-Github:
-https://github.com/mohammadzareii/guard
+    about_text = [[SwEeThEr BoT V 4.9
 
 Admins:
-@Mmdzri [Developer]
-@DavidZzz [Developer]
-@sheypoorak_Suport [Manager]
-@SweetherTM [suport]
-
-Special thanks to
-SEEDTEAM
-graphic2014
-sheypoorak team
-Avira team
+@SweetherBotAdmin [Developer]
+@SweetherNews [Support]
 
 Our channels
 @SweetherTM [persian]
